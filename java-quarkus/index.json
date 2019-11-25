@@ -33,8 +33,10 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "editor-terminal-split"
+  },
   "backend": {
-    "imageid": "ubuntu1804"
+    "imageid": "ubuntu"
   }
 }
